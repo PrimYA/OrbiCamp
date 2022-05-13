@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap'); 
+
+body {
+    
+    text-align: center;
+    background-image: url(cute-background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #BCFAF9;
+    padding-bottom: 200px;
+
+    
+}
+
+h1 {
+    font-size: 52px;
+    /*font-family: 'Nova Round', cursive; */
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(255, 255, 255);
+    letter-spacing: 4px;
+    text-shadow: 6px 2px 0 rgb(202, 74, 164), 2px 0 0 rgb(252, 238, 114), 5px 7px 8px rgb(73, 247, 38);
+    
+}
+
+.quadrado {
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    width: 60px;
+    background: #f8c1f3;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: pink;
+    border-radius: 20px;
+}
+
+.jogador, .vencedor {
+    /*font-family: 'Oxygen', sans-serif;*/
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    font-size: 35px;
+    margin-top: 30px;
+    text-shadow: 2px 3px 5px rgb(249, 84, 255), 3px 5px 5px green;
+
+}
+
+button {
+    
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 3px;
+    margin-top: 40px;
+    width: 170px;
+    height: 45px;
+    background: -webkit-linear-gradient(rgb(255, 184, 184), rgb(219, 107, 247));
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 30px;
+    border-color: rgb(255, 254, 252);
+
+}
+
+button:hover {
+    color: #59DBD6;
+    font-family: 'Luckiest Guy', cursive;
+    background: #FFEB70;
+
+}
+
