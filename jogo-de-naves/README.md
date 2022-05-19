@@ -1,6 +1,6 @@
 # Jogo De Naves
 
-![Demonstração](C:\Proj-DIO\Orbi-stuff\jogo-de-naves\JogoDeNavesDemo.gif)
+![Demonstração](JogoDeNavesDemo.gif)
 
 ## Sobre o projeto
 
