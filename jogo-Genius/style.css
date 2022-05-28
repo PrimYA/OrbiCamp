@@ -1,0 +1,93 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+body {
+    margin: 0;
+    background-image: linear-gradient(to bottom right, rgb(187, 104, 255) 20%, rgb(254, 255, 174) 100%);
+}
+
+.main-game {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius {
+    display: grid;
+    grid-template-areas: 'verde vermelho' 'amarelo azul';
+    grid-gap: 10px;
+    border: 15px solid white;
+    background-color: white;
+    border-radius: 100%;
+    width: 700px;
+    min-width: 700px;
+    height: 700px;
+    position: relative;
+    box-shadow: 0px 0px 9px;
+}
+
+.blue {
+    grid-area: azul;
+    background-image: linear-gradient(to bottom right, #0087f5 50%, white 100%);
+    border-bottom-right-radius: 100%;
+    box-shadow: 1px 2px 5px;
+}
+
+.red {
+    grid-area: vermelho;
+    background-image: linear-gradient(to bottom right, #EF6200 50%, rgb(255, 199, 199) 100%);
+    border-top-right-radius: 100%;
+    box-shadow: 1px 0px 5px;
+}
+
+.yellow {
+    grid-area: amarelo;
+    background-image: linear-gradient(to bottom right, #ffe600 50%, rgb(253, 255, 111) 100%);
+    border-bottom-left-radius: 100%;
+    box-shadow: 1px 0px 5px;
+    
+}
+
+.green {
+    grid-area: verde;
+    background-color: #27D89D;
+    background-image: linear-gradient(to bottom right, #27D89D 50%, rgb(253, 255, 111) 100%);
+    border-top-left-radius: 100%;
+    box-shadow: 1px 0px 5px;
+
+}
+
+.selected {
+    opacity: 0.3;
+}
+
+.startx {
+    position: absolute;
+    background-image: linear-gradient(to bottom right, pink 50%, rgb(255, 245, 151) 100%);
+
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    text-align: center;
+    border: 15px white;
+    border-style: inset;
+
+}
+
+.startIn {
+    margin-top: 20%;
+    margin-bottom: 30%;
+    width: 180px;
+    height: 180px;
+    font-size: 40px;
+    font-family: 'Luckiest Guy';
+    color: white;
+    text-shadow:1px 1px 2px gray;
+
+    border-radius: 100%;
+    background-image: linear-gradient(to bottom right, red 50%, rgb(255, 229, 111) 100%);
+    border-color: #ffffff;
+    cursor: pointer;
+}
