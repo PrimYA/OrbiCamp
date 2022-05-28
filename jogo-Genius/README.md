@@ -1,6 +1,6 @@
 # Jogo Genius
 
-![Demonstração](C:\Proj-DIO\OrbiCamp\jogo-Genius\.assets\JogoGenius.gif)
+![Demonstração](.assets\JogoGenius.gif)
 
 ## Sobre o projeto
 
