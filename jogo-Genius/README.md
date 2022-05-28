@@ -1,6 +1,6 @@
 # Jogo Genius
 
-![Demonstração](.assets\JogoGenius.gif)
+![Demonstração](https://github.com/PrimYA/OrbiCamp/blob/main/jogo-Genius/.assets/JogoGenius.gif?raw=true)
 
 ## Sobre o projeto
 
