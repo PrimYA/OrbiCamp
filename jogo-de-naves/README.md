@@ -1,6 +1,6 @@
 # Jogo De Naves
 
-![Demonstração](JogoDeNavesDemo.gif)
+![Demonstração](https://github.com/PrimYA/OrbiCamp/blob/main/jogo-de-naves/JogoDeNavesDemo.gif?raw=true)
 
 ## Sobre o projeto
 
