@@ -1,6 +1,6 @@
 # Jogo Space Shooter
 
-![Demonstração]()
+![Demonstração](img/JogoSpaceShooter.gif)
 
 ## Sobre o projeto
 
