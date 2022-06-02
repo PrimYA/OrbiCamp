@@ -6,7 +6,7 @@
 
 Este projeto é resultado do desafio de criar um jogo Space Shooter do bootcamp Órbi Web Games Developer na plataforma [Digital Innovation One](https://www.dio.me).
 
-Link do [Repositório do Projeto original](https://github.com/SpruceGabriela/space-shooter-dio) , feito pela professora Gabriela Pinheiro.
+Link do [Repositório do Projeto original](https://github.com/SpruceGabriela/space-shooter-dio) , feito pela professora Gabriela Pinheiro ([GitHub](https://github.com/SpruceGabriela)).
 
 ## Tecnologias utilizadas
 
