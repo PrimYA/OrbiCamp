@@ -1,6 +1,6 @@
 # Jogo Dinossauro Sem Internet
 
-![Demonstração]()
+![Demonstração](.assets/JogoDinoOffline.gif)
 
 ## Sobre o projeto
 
