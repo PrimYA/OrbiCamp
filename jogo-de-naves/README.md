@@ -4,7 +4,9 @@
 
 ## Sobre o projeto
 
-Este projeto é resultado do desafio do bootcamp Órbi Web Games Developer na plataforma [Digital Innovation One](https://www.dio.me).
+Este projeto é resultado do desafio do bootcamp Órbi Web Games Developer na plataforma [Digital Innovation One](https://www.dio.me) .
+
+O professor responsável é Denilson Bonatti ([GitHub](https://github.com/denilsonbonatti)).
 
 ## Tecnologias utilizadas
 
